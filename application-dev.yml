@@ -1,2 +1,5 @@
 env: dev
 name: dev-environment
+p:
+  key1: value1
+  key2: value2
